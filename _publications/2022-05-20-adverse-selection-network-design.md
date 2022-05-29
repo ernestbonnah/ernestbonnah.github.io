@@ -8,6 +8,8 @@ venue: 'In Preparation'
 paperurl: 
 citation: 'Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2022. &quot;Adverse Selection and Network Design Under Regulated Plan Prices: Evidence From Medicaid.&quot; In preparation. Harvard University.'
 ---
+
 This paper is about X. X is left for future work.
 
 Recommended citation: Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2022. "Adverse Selection and Network Design Under Regulated Plan Prices: Evidence From Medicaid. In preparation. Harvard University.
+
