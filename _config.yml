@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Amanda R. Kreider"
   avatar           : "profile.png"
-  bio              : "Health economist <br> <br> Postdoctoral Fellow at the <a style='color: black;' href='https://ldi.upenn.edu/'>Leonard Davis Institute of Health Economics</a>, University of Pennsylvania"
+  bio              : "Health Economist <br> Postdoctoral Fellow <br> <a style='color: black;' href='https://ldi.upenn.edu/' target='_blank'>Leonard Davis Institute of Health Economics</a>, University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         : 
   pubmed           :
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
