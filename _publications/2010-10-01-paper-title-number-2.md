@@ -1,7 +1,7 @@
 ---
 title: "Adverse Selection and Network Design Under Regulated Plan Prices: Evidence From Medicaid"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-05-29
 venue: 'In Preparation'
