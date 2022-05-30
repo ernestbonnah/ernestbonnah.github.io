@@ -12,6 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% capture reccite %} Recommended citation:
+{% endcapture %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -53,9 +56,9 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation:<br />{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p> {{ reccite || newline_to_br }} {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p> {{ reccite || newline_to_br }} {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
