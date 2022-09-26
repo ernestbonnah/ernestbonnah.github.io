@@ -182,7 +182,10 @@ collections:
     permalink: /:collection/:path/
   working-papers:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/  
+  in-progress:
+    output: true
+    permalink: /:collection/:path/        
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -241,6 +244,15 @@ defaults:
       author_profile: true
       share: true
       comments: true      
+  # _in-progress
+  - scope:
+      path: ""
+      type: in-progress
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true        
   # _side-projects
   - scope:
       path: ""

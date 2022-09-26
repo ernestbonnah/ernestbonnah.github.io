@@ -1,7 +1,7 @@
 ---
 title: 'Trends and Geographic Variation in the Home Care Workforce'
-collection: publications
-permalink: /publication/2022-trends-hcw
+collection: in-progress
+permalink: /in-progress/2022-trends-hcw
 excerpt: ''
 date: 2022-09-26
 venue: ''
