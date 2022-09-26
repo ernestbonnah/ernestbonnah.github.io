@@ -37,8 +37,10 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          {% if page.venue != '' %}
+          {% if page.venue != '' and page.paperurl != '' %}
             <p>Published in <a href='{{ page.paperurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.venue != '' %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.submit == 1 %}
             <p>Submitted.</p>
           {% else %}
