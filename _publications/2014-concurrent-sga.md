@@ -2,7 +2,7 @@
 title: 'Growth in the Concurrent Use of Antipsychotics with Other Psychotropic Medications in Medicaid-Enrolled Children'
 collection: publications
 permalink: /publication/2014-concurrent-sga
-abstract: ''
+excerpt: ''
 date: 2014-06-19
 venue: 'Journal of the American Academy of Child and Adolescent Psychiatry'
 paperurl: 'https://doi.org/10.1016/j.jaac.2014.05.010'

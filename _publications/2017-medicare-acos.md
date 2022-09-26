@@ -2,7 +2,7 @@
 title: "Medicare Accountable Care Organizations and Antidepressant Use by Patients With Depression"
 collection: publications
 permalink: /publication/2017-medicare-acos
-abstract: ''
+excerpt: ''
 date: 2017-07-17
 venue: 'Psychiatric Services'
 paperurl: 'https://ps.psychiatryonline.org/doi/10.1176/appi.ps.201600538'

@@ -2,7 +2,7 @@
 title: "Risk for Incident Diabetes Mellitus Following Initiation of Second-Generation Antipsychotics Among Medicaid-Enrolled Youths"
 collection: publications
 permalink: /publication/2015-diabetes
-abstract: ''
+excerpt: ''
 date: 2015-12-31
 venue: 'JAMA Pediatrics'
 paperurl: 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2214049'

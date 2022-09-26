@@ -2,7 +2,7 @@
 title: "Quality of Health Insurance Coverage and Access to Care for Children in Low-Income Families"
 collection: publications
 permalink: /publication/2016-quality-coverage
-abstract: ''
+excerpt: ''
 date: 2016-01-01
 venue: 'JAMA Pediatrics'
 #paperurl: 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2470859'
