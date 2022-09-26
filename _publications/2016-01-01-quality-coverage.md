@@ -1,7 +1,7 @@
 ---
 title: "Quality of Health Insurance Coverage and Access to Care for Children in Low-Income Families"
 collection: publications
-permalink: /publication/2016-01-01-quality-coverage
+permalink: /publication/2016-quality-coverage
 excerpt: ''
 date: 2016-01-01
 venue: 'JAMA Pediatrics'
