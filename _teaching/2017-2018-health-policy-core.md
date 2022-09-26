@@ -1,5 +1,5 @@
 ---
-title: "Core Course in Health Policy"
+title: "PhD Core Course in Health Policy"
 collection: teaching
 type: "PhD Program Course"
 permalink: /teaching/2017-2018-health-policy-core
@@ -8,9 +8,9 @@ date: 2017-09-01
 location: "Cambridge, MA"
 ---
 
-**Semester**: Fall 2017 and Spring 2018
+**Semester**: Fall 2017 and Spring 2018  
 **My Role**: Teaching Fellow  
-**Instructor**: <a href="https://hcp.hms.harvard.edu/people/joseph-p-newhouse" target="_blank">Joseph Newhouse</a>  
+**Instructor**: <a href="https://hcp.hms.harvard.edu/people/joseph-p-newhouse" target="_blank">Joseph Newhouse</a>
 
 ## Course Description
 

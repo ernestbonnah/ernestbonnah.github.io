@@ -10,7 +10,7 @@ location: "Cambridge, MA"
 
 **Semester**: Fall 2018  
 **My Role**: Teaching Fellow  
-**Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>  
+**Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>
 
 ## Course Description
 
