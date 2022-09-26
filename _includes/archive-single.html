@@ -42,7 +42,7 @@
           <p> {{ post.type }}, {{ post.venue }}, {{ post.semester }} </p>
         {% elsif post.collection == 'side-projects' %}
           <p> Published at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>          
-        {% elsif post.collection == 'publications' %}
+        {% elsif post.collection == 'publications' or post.collection == 'working-papers' %}
           {% if post.venue != '' %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.submit == 1 %}
