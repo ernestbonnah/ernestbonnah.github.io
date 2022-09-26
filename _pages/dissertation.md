@@ -1,11 +1,9 @@
 ---
 permalink: /dissertation/
-title: 'Dissertation'
+title: 'Dissertation: Essays on Adverse Selection and Access to Specialty Care in Medicaid'
 excerpt: 
 author_profile: true
 ---
-# Essays on Adverse Selection and Access to Specialty Care in Medicaid
-
 ## Abstract
 
 Public health insurance programs in the United States are increasingly administered through the use of private managed care plans. Under this arrangement, private plans compete to offer coverage to beneficiaries, and the government partially or fully subsidizes the insurance premium. In Medicaid, the nation’s health insurance program for low-income individuals and families, more than 70% of beneficiaries are now enrolled in managed care. By transitioning to managed care, state policymakers hoped to achieve higher value from their Medicaid programs. However, a concern in managed care markets is adverse selection, which can result in inefficiently low levels of coverage for services that are valued by sicker, higher-cost beneficiaries. My dissertation investigates whether Medicaid plans are incentivized to restrict access to specialty care due to adverse selection, the extent to which policies like risk adjustment mitigate these incentives, and whether health insurance plans respond empirically by rationing access to selected services.
