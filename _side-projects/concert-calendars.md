@@ -5,6 +5,7 @@ type: "Python"
 permalink: /side-projects/concert-calendars
 date: 2022-09-26
 venue: "GitHub"
+paperurl: 'https://github.com/amandakreider/Concert-Calendars'
 ---
 Concert Calendars scrapes local Philadelphia concert listings and creates up-to-date calendar files in iCal format that users can subscribe to. You can find the Python scripts at <a target="_blank" href="https://github.com/amandakreider/Concert-Calendars/blob/main/scripts">this link</a>. The scripts save concert listings in both .ics and .csv formats.
 
