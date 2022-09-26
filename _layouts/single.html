@@ -58,7 +58,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.excerpt != '' %}
+        {% if page.excerpt %}
           {{ page.excerpt }}  
         {% endif %}
         {{ content }}
