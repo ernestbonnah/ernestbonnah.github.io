@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ page.type }}, {{ page.venue }}, {{ page.semester }} </p>
         {% elsif page.venue and page.date %}
           {% if page.venue != '' and page.paperurl != '' %}
             <p>Published in <a href='{{ page.paperurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
