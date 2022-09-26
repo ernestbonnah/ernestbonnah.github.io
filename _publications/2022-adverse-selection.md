@@ -1,7 +1,7 @@
 ---
 title: "Adverse Selection and Network Design Under Regulated Plan Prices: Evidence From Medicaid"
 collection: publications
-permalink: /publication/adverse-selection
+permalink: /publication/2022-adverse-selection
 excerpt: ''
 date: 2022-09-25
 venue: ''
