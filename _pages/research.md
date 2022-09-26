@@ -17,15 +17,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Works in Progress
 
 {% for post in site.in-progress reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
