@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me..."
+title: "Home"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Dr. Kreider's home on the web!
-
-# Bio
+## Bio
 
 Amanda Kreider is a Postdoctoral Fellow at the Leonard Davis Institute of Health Economics at the University of Pennsylvania. She studies the economics of health insurance markets with a focus on public health insurance programs. Her research interests include Medicaid, long-term care, safety net policies, and mental health care. She is especially interested in factors affecting health care access and coverage for low-income individuals and families, and people with chronic and mental health conditions.  
 
