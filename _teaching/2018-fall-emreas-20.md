@@ -8,12 +8,11 @@ date: 2018-09-01
 location: "Cambridge, MA"
 ---
 
-**Semester**: Fall 2018
-**My Role**: Teaching Fellow
-**Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>
+**Semester**: Fall 2018  
+**My Role**: Teaching Fellow  
+**Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>  
 
-
-# Course Description
+## Course Description
 
  Around the world, billions of dollars are spent on health care treatments, public health initiatives, and pharmaceutical research and development. So why are we still not able to prevent preventable diseases, provide affordable healthcare for millions of people, and deliver cures for curable diseases? And what are the best ways to address these issues?
 
