@@ -2,7 +2,7 @@
 title: "Propensity Score Methods for Analyzing Observational Data Like Randomized Experiments: Challenges and Solutions for Rare Outcomes and Exposures"
 collection: publications
 permalink: /publication/2015-propensity
-excerpt: ''
+abstract: ''
 date: 2015-06-15
 venue: 'American Journal of Epidemiology'
 #paperurl: 'https://academic.oup.com/aje/article/181/12/989/91807'

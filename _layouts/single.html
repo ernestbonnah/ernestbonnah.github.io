@@ -58,13 +58,12 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        <h1>Heading level 1</h1>
-        {% if page.excerpt %}
-          {{ page.excerpt }}  
+
+        {% if page.abstract != '' %}
+          <h3>Abstract</h3>
+          {{ page.abstract }}  
         {% endif %}
-        <h1>Heading level 2</h1>
         {{ content }}
-        <h1>Heading level 3</h1>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

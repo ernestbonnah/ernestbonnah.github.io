@@ -2,7 +2,7 @@
 title: 'Mental Health, Behavioral and Developmental Issues for Youth in Foster Care'
 collection: publications
 permalink: /publication/2015-foster-care
-excerpt: ''
+abstract: ''
 date: 2015-01-01
 venue: 'Current Problems in Pediatric and Adolescent Health Care'
 paperurl: ''

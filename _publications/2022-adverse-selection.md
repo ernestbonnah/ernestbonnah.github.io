@@ -2,7 +2,7 @@
 title: "Adverse Selection and Network Design Under Regulated Plan Prices: Evidence From Medicaid"
 collection: publications
 permalink: /publication/2022-adverse-selection
-excerpt: "Health plans for the poor increasingly limit access to specialty hospitals. We investigate the role of adverse selection in generating this equilibrium among private plans in Medicaid. Studying a network change, we find that covering a top cancer hospital causes severe adverse selection, increasing demand for a plan by 50% among enrollees with cancer versus no impact for others. Medicaid's fixed insurer payments make offsetting this selection, and the contract distortions it induces, challenging, requiring either infeasibly high payment rates or near-perfect risk adjustment. By contrast, a small explicit bonus for covering the hospital is sufficient to make coverage profitable."
+abstract: "Health plans for the poor increasingly limit access to specialty hospitals. We investigate the role of adverse selection in generating this equilibrium among private plans in Medicaid. Studying a network change, we find that covering a top cancer hospital causes severe adverse selection, increasing demand for a plan by 50% among enrollees with cancer versus no impact for others. Medicaid's fixed insurer payments make offsetting this selection, and the contract distortions it induces, challenging, requiring either infeasibly high payment rates or near-perfect risk adjustment. By contrast, a small explicit bonus for covering the hospital is sufficient to make coverage profitable."
 date: 2022-09-25
 venue: ''
 paperurl: ''

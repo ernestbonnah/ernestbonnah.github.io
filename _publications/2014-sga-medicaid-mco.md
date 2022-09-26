@@ -2,7 +2,7 @@
 title: 'Second-Generation Antipsychotic Use Among Stimulant-Using Children, by Organization of Medicaid Mental Health'
 collection: publications
 permalink: /publication/2014-sga-medicaid-mco
-excerpt: ''
+abstract: ''
 date: 2014-12-01
 venue: 'Psychiatric Services'
 paperurl: 'https://doi.org/10.1176/appi.ps.201300574'
