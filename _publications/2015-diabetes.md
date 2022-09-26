@@ -3,7 +3,7 @@ title: "Risk for Incident Diabetes Mellitus Following Initiation of Second-Gener
 collection: publications
 permalink: /publication/2015-diabetes
 excerpt: ''
-date: 2015-04-01
+date: 2015-12-31
 venue: 'JAMA Pediatrics'
 paperurl: 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2214049'
 submit: 1
