@@ -6,9 +6,10 @@ permalink: /teaching/2018-fall-emreas-20
 venue: "Harvard University"
 date: 2018-09-01	
 location: "Cambridge, MA"
+semester: "Fall 2018"
 ---
 
-**Semester**: Fall 2018  
+**Semester**: 
 **My Role**: Teaching Fellow  
 **Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>
 

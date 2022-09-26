@@ -6,6 +6,7 @@ permalink: /teaching/2017-2018-health-policy-core
 venue: "Harvard University"
 date: 2017-09-01
 location: "Cambridge, MA"
+semester: "Fall 2017 and Spring 2018"
 ---
 
 **Semester**: Fall 2017 and Spring 2018  
