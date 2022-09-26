@@ -12,4 +12,4 @@ Colonial Penn Center #308
   Philadelphia, PA 19104
 </a>  
 ### Email
-Email me <a target='_blank' href="mailto:akreid@wharton.upenn.edu">here</a>.
+Send me an <a target='_blank' href="mailto:akreid@wharton.upenn.edu">email</a>!
