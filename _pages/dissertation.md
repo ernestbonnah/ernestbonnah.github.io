@@ -24,4 +24,4 @@ In the final chapter, I test whether MMC plans ration access to adversely select
 
 ### Link
 
-Click <a target='_blank' href="https://dash.harvard.edu/handle/1/37370136">here</a> for a link to my dissertation.
+Click <a target='_blank' href="https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37370136">here</a> for a link to my dissertation.
