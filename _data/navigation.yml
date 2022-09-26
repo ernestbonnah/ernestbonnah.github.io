@@ -10,4 +10,4 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: <a href='https://amandakreider.github.io/files/kreider_cv.pdf' target='_blank'>CV</a>
+    url: /files/kreider_cv.pdf
