@@ -17,4 +17,4 @@ semester: "Fall 2017 and Spring 2018"
 
  This yearlong seminar is required for doctoral candidates in health policy and is open to others by permission of the instructor. The course is intended to familiarize students with the health policy research literature and selected questions in the field.
 
-The course is organized around lectures by faculty from the Faculty of Arts & Sciences, the Kennedy School of Government, the T.H. Chan School of Public Health, the Medical School, the Business School, and the Law School. Discussion sessions will be interspersed with the invited lectures and will examine the policy relevance, research methods, and technical details of many of the presented topics in more depth. 
+ The course is organized around lectures by faculty from the Faculty of Arts & Sciences, the Kennedy School of Government, the T.H. Chan School of Public Health, the Medical School, the Business School, and the Law School. Discussion sessions will be interspersed with the invited lectures and will examine the policy relevance, research methods, and technical details of many of the presented topics in more depth. 
