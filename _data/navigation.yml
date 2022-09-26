@@ -11,3 +11,6 @@ main:
     
   - title: "CV"
     url: /files/kreider_cv.pdf
+
+  - title: "Contact"
+    url: /contact/    
