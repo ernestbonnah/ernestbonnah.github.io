@@ -7,7 +7,7 @@ date: 2022-09-26
 venue: "GitHub"
 projurl: 'https://github.com/amandakreider/Concert-Calendars'
 ---
-Concert Calendars scrapes local Philadelphia concert listings and creates up-to-date calendar files in iCal format that users can subscribe to. You can find the Python scripts at <a target="_blank" href="https://github.com/amandakreider/Concert-Calendars/blob/main/scripts">this link</a>. The scripts save concert listings in both .ics and .csv formats.
+My **Concert Calendars** project scrapes local Philly concert listings daily and creates up-to-date concert calendars (by venue) that users can subscribe to. You can find the Python scripts at <a target="_blank" href="https://github.com/amandakreider/Concert-Calendars/blob/main/scripts">this link</a>. The scripts save concert listings in both .ics and .csv formats.
 
 To subscribe to one of the calendars below in Google calendar, first navigate to <a target="_blank" href="https://calendar.google.com">your calendar</a>. In the left sidebar, next to "Other calendars," click on the "+" button. Then click "From URL," and add one of the links below. You're all set! 
 
