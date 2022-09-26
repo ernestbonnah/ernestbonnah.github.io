@@ -9,7 +9,7 @@ location: "Cambridge, MA"
 semester: "Fall 2018"
 ---
 
-**Semester**: 
+**Semester**: Fall 2018  
 **My Role**: Teaching Fellow  
 **Instructor**: <a href="https://scholar.harvard.edu/cutler/home" target="_blank">David Cutler</a>
 
