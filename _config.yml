@@ -186,6 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  side-projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
