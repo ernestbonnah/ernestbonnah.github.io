@@ -51,6 +51,10 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+
+        {% if page.doi %}
+          <p> DOI: <a href='https://doi.org/{{ page.doi }}' target='_blank'>{{ page.doi }}</a> </p>
+        {% endif %}
         
         {% if page.citation %}
           <p> Recommended citation: <br> {{ page.citation }} </p>
