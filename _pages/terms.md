@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2022-09-28
 ---
 
 {% include base_path %}
@@ -24,7 +24,7 @@ Like many other websites, this site uses log files to help learn about when, fro
 * Referring and exit pages
 * Number of clicks
 
-All of this information is not linked to anything that is personally identifiable.
+None of this information is linked to anything that is personally identifiable.
 
 ### Cookies and Web Beacons
 
@@ -37,3 +37,4 @@ If you wish to disable cookies, you may do so through your web browser options. 
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+
