@@ -43,6 +43,8 @@ layout: default
             <p>Published in <a href='{{ page.paperurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue != '' %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.paperurl != '' %}
+            <p>Link: <a href='{{ page.paperurl }}' target='_blank'>{{ page.paperurl }}</a></p>
           {% elsif page.submit == 1 %}
             <p>Submitted.</p>
           {% else %}
