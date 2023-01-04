@@ -24,3 +24,12 @@ To subscribe to the Fillmore/Foundry calendar, use [this .ics link](https://raw.
 ## The Met
 
 To subscribe to the Met calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/met_events.ics). 
+
+## Bonus: Yoga Studio Schedules
+
+To subscribe to Uprising UCM's class schedule, use [this link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/uprising_classes.ics). 
+
+To subscribe to Palo Santo's class schedule, use [this link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/palo_santo_classes.ics).
+
+
+
