@@ -7,6 +7,6 @@ date: 2023-01-04
 venue: "GitHub"
 projurl: 'https://github.com/amandakreider/US-News-Hospital-Rankings'
 ---
-The Python scripts in my <a target="_blank" href="https://github.com/amandakreider/US-News-Hospital-Rankings">US News Hospital Rankings project</a> scrape the <a target="_blank" href="https://health.usnews.com/best-hospitals">US News & World Report website</a> for hospital rankings by place and specialty and output the data as .csv files. The <a target="_blank" href="https://github.com/amandakreider/US-News-Hospital-Rankings/tree/main/scripts">scripts</a> are easily modifiable to generate data for any combination of specialty and place in the United States. The output data are saved as .csv files in the <a target="_blank" href="https://github.com/amandakreider/US-News-Hospital-Rankings/tree/main/data">data directory</a>.
+The Python scripts in my <a target="_blank" href="https://github.com/amandakreider/US-News-Hospital-Rankings">US News Hospital Rankings project</a> scrape the <a target="_blank" href="https://health.usnews.com/best-hospitals">US News & World Report website</a> for hospital rankings by place and specialty and output the data as .csv files. The <a target="_blank" href="https://github.com/amandakreider/US-News-Hospital-Rankings/tree/main/scripts">scripts</a> are easily modifiable to generate data for any combination of specialty and place in the United States. 
 
 
