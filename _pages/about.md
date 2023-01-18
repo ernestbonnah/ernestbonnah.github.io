@@ -10,6 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a postdoctoral research fellow at the Leonard Davis Institute of Health Economics (LDI) at the University of Pennsylvania. I study the economics of health insurance markets, with a focus on public health insurance programs. My research interests include Medicaid, long-term care, safety net policies, and mental health care. I am especially interested in factors affecting health care access and coverage for low-income individuals and families and people with chronic and mental health conditions.  
+I'm a health economist and a postdoctoral fellow at the Leonard Davis Institute of Health Economics. My research examines how US public policy impacts people marginalized by society, including those living in poverty, experiencing chronic illness or disability, or exposed to the criminal legal system. I'm particularly interested in the economics of health insurance (especially Medicaid), long-term care, immigration, and mental health care. Through my research, I hope to contribute to a more equitable and accessible health care system.
 
-I received my PhD in health policy and economics from Harvard University in November 2021, where my dissertation demonstrated how economic incentives faced by Medicaid managed care plans affect access to specialty care in the Medicaid program. While in graduate school, I held a pre-doctoral fellowship in aging & health economics at the National Bureau of Economic Research. Prior to graduate school, I worked as a research associate at PolicyLab at The Children’s Hospital of Philadelphia. ***I expect to be on the job market in Fall 2023.***
+I completed my PhD in health policy and economics at Harvard University in November 2021. My dissertation demonstrated how economic incentives faced by private Medicaid plans impact access to specialty care for Medicaid enrollees. While in graduate school, I held a pre-doctoral fellowship in aging & health economics at the National Bureau of Economic Research. Prior to my PhD, I worked as a research associate at PolicyLab at The Children’s Hospital of Philadelphia. ***I expect to be on the job market in Fall 2023.***
+
+You can check out my latest working paper [here](https://www.nber.org/papers/w30719){:target="\_blank"}!
+
