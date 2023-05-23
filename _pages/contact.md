@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Address
 You can find me at:  
-Colonial Penn Center #308  
+Colonial Penn Center #108  
 <a target='_blank' href="https://goo.gl/maps/6SeVHnumvaTYiznv7">
   3641 Locust Walk  
   Philadelphia, PA 19104
