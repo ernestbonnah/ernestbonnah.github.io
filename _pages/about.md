@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hi! My name is Amanda Kreider (Pronunciation: /&#601;ˈm&aelig;n.d&#601; ˈkra&#618;.d&#602;/)
+Hi! My name is Amanda Kreider (Pronunciation: /'<a target='_blank' href="http://ipa-reader.xyz/?text=&#601;ˈm&aelig;nd&#601;&nbsp;ˈkra&#618;d&#602;">&#601;ˈm&aelig;nd&#601; ˈkra&#618;d&#602;</a>/).
 
 I'm a health economist and a postdoctoral fellow at the Leonard Davis Institute of Health Economics. My research examines how US public policy impacts marginalized people, including those living in poverty, experiencing chronic illness or disability, or exposed to the criminal legal system. I'm particularly interested in the economics of public health insurance programs, long-term care, immigration, and mental health care. Through my research, I hope to contribute to a more equitable and accessible health care system.
 
