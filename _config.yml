@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amanda Kreider <br> /'<a target='_blank' href='http://ipa-reader.xyz/?text=&#601;ˈm&aelig;nd&#601;&nbsp;ˈkra&#618;d&#602;'>&#601;ˈm&aelig;nd&#601; ˈkra&#618;d&#602;</a>/"
+  name             : "Amanda Kreider"
   avatar           : "profpic.jpeg"
-  bio              : "Health Economist <br> <br> Postdoctoral Fellow <br> <a style='color: black;' href='https://ldi.upenn.edu/' target='_blank'>Leonard Davis Institute of Health Economics</a> <br> University of Pennsylvania"
+  bio              : "<a target='_blank' href='http://ipa-reader.xyz/?text=&#601;ˈm&aelig;nd&#601;&nbsp;ˈkra&#618;d&#602;'>/&#601;ˈm&aelig;nd&#601; ˈkra&#618;d&#602;/</a> <br> <br> Health Economist <br> <br> Postdoctoral Fellow <br> <a style='color: black;' href='https://ldi.upenn.edu/' target='_blank'>Leonard Davis Institute of Health Economics</a> <br> University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         : 
   pubmed           :
