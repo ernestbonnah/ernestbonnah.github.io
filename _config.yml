@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda R. Kreider"
+title                    : "Amanda Kreider"
 title_separator          : "-"
-name                     : &name "Amanda R. Kreider"
-description              : &description "The website for Dr. Amanda R. Kreider, a postdoctoral fellow at the Leonard Davis Institute of Health Economics at the University of Pennsylvania"
+name                     : &name "Amanda Kreider"
+description              : &description "The website for Amanda R. Kreider, PhD, a postdoctoral fellow at the Leonard Davis Institute of Health Economics at the University of Pennsylvania"
 url                      : "https://amandakreider.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amandakreider/amandakreider.github.io"
