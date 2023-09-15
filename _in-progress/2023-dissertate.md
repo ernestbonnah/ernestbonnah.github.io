@@ -3,7 +3,7 @@ title: 'Adverse Selection and Access to Specialty Care in Medicaid'
 collection: in-progress
 permalink: /in-progress/2023-dissertate
 excerpt: ''
-date: 2023-06-19
+date: 2023-09-14
 venue: ''
 paperurl: ''
 submit: 0

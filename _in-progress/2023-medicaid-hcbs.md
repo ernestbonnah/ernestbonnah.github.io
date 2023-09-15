@@ -3,7 +3,7 @@ title: 'Medicaid Spending on Home- and Community-Based Services and the Economic
 collection: in-progress
 permalink: /in-progress/2023-medicaid-hcbs
 excerpt: ''
-date: 2023-06-20
+date: 2023-09-13
 venue: ''
 paperurl: ''
 submit: 0
