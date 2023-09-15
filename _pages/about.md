@@ -14,5 +14,5 @@ I'm a health economist and a postdoctoral fellow at the Leonard Davis Institute 
 
 I completed my PhD in health policy and economics at Harvard University in November 2021. My [dissertation](https://amandakreider.github.io/dissertation/) demonstrated how Medicaid managed care plans' economic incentives influence access to specialty care for enrollees. While in graduate school, I held a fellowship in aging & health economics at the National Bureau of Economic Research. Prior to my PhD, I worked as a research associate at PolicyLab at The Children’s Hospital of Philadelphia. When I'm not working, you can find me lifting weights, cooking up something delicious, tending to my window boxes, watching movies, managing my fantasy basketball team, [coding](https://amandakreider.github.io/side-projects/) for fun, practicing yoga, or passionately cheering on the Sixers and the Phillies. 
 
-***I expect to be on the job market in Fall 2023.*** You can check out my latest working paper [here](https://www.nber.org/papers/w30719){:target="\_blank"}!
+***I am currently on the 2023-2024 academic job market.*** You can check out my CV [here](https://amandakreider.github.io/files/kreider_cv.pdf){:target="\_blank"}!
 
