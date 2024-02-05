@@ -17,15 +17,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Works in Progress
+## Other Working Papers
 
-{% for post in site.in-progress reversed %}
+{% for post in site.working-papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Working Papers
+## Works in Progress
 
-{% for post in site.working-papers reversed %}
+{% for post in site.in-progress reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
