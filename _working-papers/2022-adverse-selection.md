@@ -4,7 +4,7 @@ collection: working-papers
 permalink: /working-papers/2022-adverse-selection
 excerpt: ''
 date: 2022-12-05
-venue: ''
+venue: 'Journal of Health Economics'
 paperurl: 'https://www.nber.org/papers/w30719'
 submit: 2
 citation: 'Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2022. &quot;Adverse Selection and Network Design Under Regulated Plan Prices: Evidence from Medicaid.&quot; NBER Working Paper No. 30719. https://www.nber.org/papers/w30719.'
