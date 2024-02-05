@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-12-05
 venue: ''
 paperurl: 'https://www.nber.org/papers/w30719'
-submit: 1
+submit: 2
 citation: 'Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2022. &quot;Adverse Selection and Network Design Under Regulated Plan Prices: Evidence from Medicaid.&quot; NBER Working Paper No. 30719. https://www.nber.org/papers/w30719.'
 ---
 ## Abstract

@@ -3,11 +3,11 @@ title: 'Immigration Enforcement, the Home Care Workforce, and Access to Long-Ter
 collection: jmp
 permalink: /in-progress/2024-immigration-home-care
 excerpt: ''
-date: 2024-11-17
+date: 2024-02-05
 venue: ''
 paperurl: 'https://amandakreider.github.io/files/Kreider_JMP_Draft.pdf'
 submit: 0
-citation: 'Kreider, Amanda R., and Rachel M. Werner. 2023. &quot;Immigration Enforcement, the Home Care Workforce, and Access to Long-Term Care: Evidence from Secure Communities.&quot; In preparation. University of Pennsylvania'
+citation: 'Kreider, Amanda R., and Rachel M. Werner. 2024. &quot;Immigration Enforcement, the Home Care Workforce, and Access to Long-Term Care: Evidence from Secure Communities.&quot; Job market paper. University of Pennsylvania'
 ---
 
 ## Abstract
