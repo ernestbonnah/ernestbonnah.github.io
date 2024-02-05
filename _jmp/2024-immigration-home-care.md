@@ -1,6 +1,6 @@
 ---
 title: 'Immigration Enforcement, the Home Care Workforce, and Access to Long-Term Care: Evidence from Secure Communities'
-collection: in-progress
+collection: jmp
 permalink: /in-progress/2024-immigration-home-care
 excerpt: ''
 date: 2024-11-17
