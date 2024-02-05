@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+## Job Market Paper
+
+{% for post in site.jmp reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Works in Progress
 
 {% for post in site.in-progress reversed %}
