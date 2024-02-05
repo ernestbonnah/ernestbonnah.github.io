@@ -185,7 +185,10 @@ collections:
     permalink: /:collection/:path/  
   in-progress:
     output: true
-    permalink: /:collection/:path/        
+    permalink: /:collection/:path/  
+  jmp:
+    output: true
+    permalink: /:collection/:path/      
   portfolio:
     output: true
     permalink: /:collection/:path/
