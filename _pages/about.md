@@ -11,8 +11,8 @@ I am an Assistant Professor in the Department of Electrical and Computer Enginee
 Click around to learn more about my <a href="https://ebonnah.github.io/research/">research interests</a>, read some of my <a href="https://ebonnah.github.io/publications/">publications</a>, or <a href="https://ebonnah.github.io/vacancies/">vacancies</a> in my research lab.
 <hr>
 
-Research Interests
-=
+<b>Research Interests</b> 
+
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
