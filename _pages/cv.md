@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 <script>
-  window.location.href = "https://www.yahoo.com";
+  window.location.href = "[https://www.yahoo.com](https://scholar.google.com/citations?user=9zsFLyIAAAAJ&hl=en)";
 </script>
