@@ -25,8 +25,8 @@ author:
   name             : "Ernest Bonnah"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor <br> <a style='color: black;' href='https://www.ecs.baylor.edu/research-departments/electrical-and-computer-engineering' target='_blank'>Department of Electrical & Computer Engineering</a> <br> <a style='color: black;' href='https://www.baylor.edu/' target='_blank'>Baylor University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Waco, TX"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "ernest_bonnah@baylor.edu" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
