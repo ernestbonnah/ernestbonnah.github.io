@@ -53,7 +53,7 @@ My research goal is to investigate and develop various theories, methods and too
 
   </div>
   <div class="column">
-    <h2>Application Domains</h2>
+    <h3>Application Domains</h3>
     <p>
       <ul style="list-style-type:square;line-height:220%">
         <li>Robotics/Autonomous Systems</li>
