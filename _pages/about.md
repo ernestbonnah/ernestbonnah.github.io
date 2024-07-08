@@ -50,7 +50,7 @@ My research goal is to investigate and develop various theories, methods and too
     <p>
         <li>Robotics/Autonomous Systems</li>
         <li>Edge Computing Paradigms</li>
-        <li>Safety-Critical Health Applications<\li>
+        <li>Safety-Critical Health Applications</li>
      </p>
   </div>
 </div>
