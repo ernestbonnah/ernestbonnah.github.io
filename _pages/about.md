@@ -13,7 +13,7 @@ Click around to learn more about my <a href="https://ebonnah.github.io/research/
 <hr>
 
 <h2>Research Interests<\h2>
-======
+<br>
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -62,7 +62,7 @@ My research goal is to investigate and develop various theories, methods and too
 <hr>
 
 <h2>Education<\h3>
-======
+
 <ul style="list-style-type:square;line-height:220%">
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
