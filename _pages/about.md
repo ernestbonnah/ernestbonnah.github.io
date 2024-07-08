@@ -41,7 +41,6 @@ My research goal is to investigate and develop various theories, methods and too
 <div class="row">
   <div class="column">
     <b>Research Areas</b>
-      <ul style="list-style-type:square;line-height:220%">
         <li>Formal Verification of Cyber-Physical Systems</li>
         <li> Security of Internet of Autonomous Things (IoAT) using Blockchain</li>
         <li>Explainable AI for Robotic/Autonomous systems Failures</li>        
@@ -50,7 +49,6 @@ My research goal is to investigate and develop various theories, methods and too
   <div class="column">
     <b>Application Domains</b>
     <p>
-      <ul style="list-style-type:square;line-height:220%">
         <li>Robotics/Autonomous Systems</li>
         <li>Edge Computing Paradigms</li>
     </ul>
@@ -64,6 +62,4 @@ My research goal is to investigate and develop various theories, methods and too
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
 <li>MSc. Telecommunication Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, Nov. 2016</li>
 <li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, May 2012</li>
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
