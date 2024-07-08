@@ -66,4 +66,6 @@ My research goal is to investigate and develop various theories, methods and too
 <li>MSc. Telecommunication Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, Nov. 2016</li>
 <li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, May 2012</li>
 </ul>
-
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
