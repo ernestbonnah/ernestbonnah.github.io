@@ -59,8 +59,7 @@ My research goal is to investigate and develop various theories, methods and too
 </div>
 <hr>
 
-Education
-
+<b>Education</b>
 <ul style="list-style-type:square;line-height:220%">
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
