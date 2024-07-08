@@ -12,7 +12,7 @@ Click around to learn more about my <a href="https://ebonnah.github.io/research/
   <br>
 <hr>
 
-Research Interests
+<h2>Research Interests<\h2>
 ======
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,7 +61,7 @@ My research goal is to investigate and develop various theories, methods and too
 </div>
 <hr>
 
-Education
+<h2>Education<\h3>
 ======
 <ul style="list-style-type:square;line-height:220%">
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
@@ -70,53 +70,3 @@ Education
 <li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, May 2012</li>
 </ul>
 
-<h1>Research Interests</h1>
-<p>My research goal is to investigate and develop various theories, methods, and tools to guarantee safety, security, and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cybersecurity, and machine learning.</p>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two equal columns that float next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Reduce space between the text and columns */
-.row {
-  margin-top: 20px; /* Adjust this value to reduce or increase space */
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1000px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-<div class="row">
-  <div class="column">
-    <h2>Research Areas</h2>
-    <ul style="list-style-type:square;line-height:220%">
-      <li>Formal Verification of Cyber-Physical Systems</li>
-      <li>Security of Internet of Autonomous Things (IoAT) using Blockchain</li>
-      <li>Explainable AI for Robotic/Autonomous systems Failures</li>
-    </ul>
-  </div>
-  <div class="column">
-    <h2>Application Domains</h2>
-    <ul style="list-style-type:square;line-height:220%">
-      <li>Robotics/Autonomous Systems</li>
-      <li>Edge Computing Paradigms</li>
-    </ul>
-  </div>
-</div>
