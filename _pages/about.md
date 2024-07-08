@@ -32,7 +32,7 @@ My research goal is to investigate and develop various theories, methods and too
   clear: both;
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
@@ -44,15 +44,13 @@ My research goal is to investigate and develop various theories, methods and too
         <li>Formal Verification of Cyber-Physical Systems</li>
         <li> Security of Internet of Autonomous Things (IoAT) using Blockchain</li>
         <li>Explainable AI for Robotic/Autonomous systems Failures</li>        
-    </ul>
-  </div>
+    </div>
   <div class="column">
     <b>Application Domains</b>
     <p>
         <li>Robotics/Autonomous Systems</li>
         <li>Edge Computing Paradigms</li>
-    </ul>
-    </p>
+     </p>
   </div>
 </div>
 <hr>
