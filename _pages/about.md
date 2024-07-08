@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an Assistant Professor in the Department of Electrical and Computer Engineering at Baylor University, Waco, Texas. I direct the Secured and Dependable Intelligent Systems (SeDIS) Laboratory. Before joining Baylor University, I was a member of the Dependable Cyber-Physical Systems Laboratory at The University of Missouri-Columbia, under the supervision of Prof. Khaza Anuarul Hoque.  
 
-Click around to learn more about my <a href="https://ebonnah.github.io/research/">research interests</a>, read some of my <a href="https://ebonnah.github.io/publications/">publications</a>, or <a href="https://ebonnah.github.io/vacancies/">vacancies</a> in my research lab.
+Click around to learn more about my <a href="https://ernestbonnah.github.io/research/">research interests</a>, read some of my <a href="https://ernestbonnah.github.io/publications/">publications</a>, or <a href="https://erenstbonnah.github.io/vacancies/">vacancies</a> in my research lab.
 <hr>
 
 <b>Research Interests</b> 
