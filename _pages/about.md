@@ -15,7 +15,7 @@ Click around to learn more about my <a href="https://ebonnah.github.io/research/
 Research Interests
 ======
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -26,14 +26,12 @@ My research goal is to investigate and develop various theories, methods and too
   width: 50%;
   padding: 10px;
 }
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1000px) {
   .column {
@@ -47,8 +45,7 @@ My research goal is to investigate and develop various theories, methods and too
       <ul style="list-style-type:square;line-height:220%">
         <li>Formal Verification of Cyber-Physical Systems</li>
         <li> Security of Internet of Autonomous Things (IoAT) using Blockchain</li>
-        <li>Explainable AI for Robotic/Autonomous systems Failures</li>
-        
+        <li>Explainable AI for Robotic/Autonomous systems Failures</li>        
     </ul>
 
   </div>
