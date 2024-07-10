@@ -60,6 +60,7 @@ My research goal is to investigate and develop various theories, methods and too
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a>, May 2024</li>
 <li>MSc. Telecommunication Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, Nov. 2016</li>
 <li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a>, May 2012</li>
+<br>
 
 <h1>News</h1>
 <hr>
