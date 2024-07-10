@@ -13,7 +13,7 @@ Click around to learn more about my <a href="https://ernestbonnah.github.io/rese
 
 <b>Research Interests</b> 
 
-My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
+My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems (CPS) and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -41,16 +41,16 @@ My research goal is to investigate and develop various theories, methods and too
 <div class="row">
   <div class="column">
     <b>Research Areas</b>
-        * Formal Verification of Cyber-Physical Systems
-        * Security of Internet of Autonomous Things (IoAT) using Blockchain
-        * Explainable AI for Robotic/Autonomous systems Failures        
+        <li> Formal Verification of Cyber-Physical Systems</li>
+         <li> Security of Internet of Autonomous Things (IoAT) </li>
+        <li> Explainable AI for Robotic/Autonomous systems Failures </li>       
     </div>
   <div class="column">
     <b>Application Domains</b>
     <p>
-        * Robotics/Autonomous Systems
-        * Edge Computing Paradigms
-        * Safety-Critical Health Applications
+        <li> Robotics/Autonomous Systems </li>
+        <li> Edge Computing Paradigms </li>
+        <li> Safety-Critical Health Applications </li>
      </p>
   </div>
 </div>
