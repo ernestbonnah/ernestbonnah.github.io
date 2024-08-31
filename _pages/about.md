@@ -14,40 +14,9 @@ Click around to learn more about my <a href="https://ernestbonnah.github.io/rese
 <b>Research Interests</b> 
 
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems (CPS) and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Research Areas</title>
-    <style>
-        .container {
-            background-color: #d3d3d3; /* Gray background color */
-            padding: 20px;
-            border: 1px solid #ccc; /* Border color */
-            max-width: 600px;
-            margin: 0 auto; /* Center align */
-            font-family: Arial, sans-serif; /* Font family */
-        }
-        .container strong {
-            display: block;
-            font-weight: bold;
-            margin-bottom: 5px; /* Space between strong and content */
-        }
-        .container p {
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
+<b>Research Areas:</b> Formal Verification & Cyber-Physical Systems, Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network
 
-<div class="container">
-    <p><b>Research Areas:</b> Formal Verification & Cyber-Physical Systems, 
-    Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network </p>
-    <p><b>Application Domains:</b> Robotics/Autonomous systems, 
-    Edge Computing Paradigms, Safety-Critical Health Applications</p>
-</div>
-</body>
-</html>
+<p><b>Application Domains:</b> Robotics/Autonomous systems, Edge Computing Paradigms, Safety-Critical Health Applications</p>
 
 
 <br>
