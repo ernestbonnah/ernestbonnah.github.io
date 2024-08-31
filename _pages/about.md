@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 <hr>
-I am an Assistant Professor in the Department of Electrical and Computer Engineering at Baylor University, Waco, Texas. I direct the Secured and Dependable Intelligent Systems (SeDIS) Laboratory. Before joining Baylor University, I was a member of the Dependable Cyber-Physical Systems Laboratory at The University of Missouri-Columbia, under the supervision of Prof. Khaza Anuarul Hoque.  
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at Baylor University, Waco, Texas. I direct the Secured and Dependable Intelligent Systems (SeDIS) Laboratory. Before joining Baylor University, I was a member of the Dependable Cyber-Physical Systems Laboratory at the University of Missouri-Columbia, under the supervision of Prof. Khaza Anuarul Hoque.  
 
-Click around to learn more about my <a href="https://ernestbonnah.github.io/research/">research interests</a>, read some of my <a href="https://ernestbonnah.github.io/publications/">publications</a>, or <a href="https://erenstbonnah.github.io/vacancies/">vacancies</a> in my research lab.
+Click around to learn more about my <a href="https://ernestbonnah.github.io/research/">research interests</a>, read some of my <a href="https://ernestbonnah.github.io/publications/">publications</a>, or <a href="https://erenstbonnah.github.io/opening/">vacancies</a> in my research lab.
 
 <b>Research Interests</b> 
 
@@ -66,7 +66,7 @@ My research goal is to investigate and develop various theories, methods and too
 <hr>
 <div style="display: flex;">
   <div style="flex: 0 0 100px;"><strong>August '24</strong></div>
-  <div>The Secured and Dependable Cyber-Physical Systems (SeDIS) Lab in the Department of Electrical and Computer Engineering at Baylor University has opening for two fully funded Ph.D. positions for Spring 2025.</div>
+  <div>The Secured and Dependable Cyber-Physical Systems (SeDIS) Lab in the Department of Electrical and Computer Engineering at Baylor University has openings for two fully funded Ph.D. positions for Spring 2025.</div>
 </div>
 
 
