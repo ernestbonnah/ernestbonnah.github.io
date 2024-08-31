@@ -15,9 +15,9 @@ Click around to learn more about my <a href="https://ernestbonnah.github.io/rese
 
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems (CPS) and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
 
-<b>Research Areas:</b> Formal Verification & Cyber-Physical Systems, Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network
+<em>Research Areas:</em> Formal Verification & Cyber-Physical Systems, Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network
 
-<p><b>Application Domains:</b> Robotics/Autonomous systems, Edge Computing Paradigms, Safety-Critical Health Applications</p>
+<p><em>Application Domains:</em> Robotics/Autonomous systems, Edge Computing Paradigms, Safety-Critical Health Applications</p>
 
 
 <br>
