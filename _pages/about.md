@@ -64,4 +64,9 @@ My research goal is to investigate and develop various theories, methods and too
 
 <h1>News</h1>
 <hr>
+<div style="display: flex;">
+  <div style="flex: 0 0 100px;"><strong>March '22</strong></div>
+  <div>I have received the "Junior Faculty Excellence in Teaching" award from the College of Engineering, MU</div>
+</div>
+
 
