@@ -55,6 +55,42 @@ My research goal is to investigate and develop various theories, methods and too
   </div>
 </div>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Areas</title>
+    <style>
+        .container {
+            background-color: #d3d3d3; /* Gray background color */
+            padding: 20px;
+            border: 1px solid #ccc; /* Border color */
+            max-width: 600px;
+            margin: 0 auto; /* Center align */
+            font-family: Arial, sans-serif; /* Font family */
+        }
+        .container strong {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px; /* Space between strong and content */
+        }
+        .container p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <p><strong>Research Areas:</strong> Formal Verification & Cyber-Physical Systems, 
+    Explainable AI, Fault-Tolerant and Energy-Efficient AI/ML Hardware.</p>
+    <p><strong>Application Domains:</strong> Robotics/Autonomous systems, 
+    Virtual/Augmented Reality, Edge AI/ML</p>
+</div>
+
+</body>
+</html>
+
 <b>Education</b>
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia,</a> MO, USA</li>
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, </a>MO, USA</li>
