@@ -18,5 +18,5 @@ main:
   - title: "Prospective Students"
     url: /opening/
 
-  - title: "Blog"
-    url: /blogs/
+  #- title: "Blog"
+  #  url: /blogs/
