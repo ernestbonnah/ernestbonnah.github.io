@@ -21,7 +21,7 @@ My research goal is to investigate and develop various theories, methods and too
     <title>Research Areas</title>
     <style>
         .container {
-            background-color: #add8e6; /* Light blue background color */
+            background-color: #d3d3d3; /* Gray background color */
             padding: 20px;
             border: 1px solid #ccc; /* Border color */
             max-width: 600px;
@@ -41,15 +41,16 @@ My research goal is to investigate and develop various theories, methods and too
 <body>
 
 <div class="container">
-    <p><strong>Research Areas:</strong> Formal Verification & Cyber-Physical Systems, 
-    Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network .</p>
-    <p><strong>Application Domains:</strong> Robotics/Autonomous systems, 
+    <p><b>Research Areas:</b> Formal Verification & Cyber-Physical Systems, 
+    Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network </p>
+    <p><b>Application Domains:</b>b> Robotics/Autonomous systems, 
     Edge Computing Paradigms, Safety-Critical Health Applications</p>
 </div>
-
 </body>
 </html>
 
+
+<br>
 <b>Education</b>
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia,</a> MO, USA</li>
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, </a>MO, USA</li>
