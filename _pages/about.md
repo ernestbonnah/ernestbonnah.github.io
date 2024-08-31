@@ -21,7 +21,7 @@ My research goal is to investigate and develop various theories, methods and too
     <title>Research Areas</title>
     <style>
         .container {
-            background-color: #d3d3d3; /* Gray background color */
+            background-color: #add8e6; /* Light blue background color */
             padding: 20px;
             border: 1px solid #ccc; /* Border color */
             max-width: 600px;
