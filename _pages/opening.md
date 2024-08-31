@@ -5,14 +5,14 @@ permalink: /opening/
 author_profile: true
 ---
 <hr>
-Two Fully funded Ph.D. positions in Baylor University
+<b>Two Fully funded Ph.D. positions in Baylor University</b>
 
 The Secured and Dependable Intelligent Systems (SeDIS) Lab at the Department of Electrical and Computer Engineering of Baylor University, Waco, Texas, USA, invites highly motivated students
 with backgrounds in formal verification, cybersecurity, and/or machine learning to apply for two funded Ph.D. positions available for Spring 2025 under the supervision of Dr. Ernest Bonnah. The
 research projects will explore novel formal verification, security, and machine learning techniques to guarantee and enhance safety, quality of service, and security in intelligent autonomous systems,
 the internet of autonomous things, and edge computing paradigms.
 
-##Responsibilities
+<b>Responsibilities</b>
 
 The major responsibilities of successful applicants include conducting doctoral research and coursework. Ph.D. students will be required to identify novel research directions and design the
 appropriate computational experiments to answer key research questions. In this regard, students will perform world-class research in edge/network privacy and security, or formal verification of
