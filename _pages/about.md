@@ -14,47 +14,6 @@ Click around to learn more about my <a href="https://ernestbonnah.github.io/rese
 <b>Research Interests</b> 
 
 My research goal is to investigate and develop various theories, methods and tools to guarantee safety, security and quality of service in complex cyber-physical systems (CPS) and IoT devices by leveraging techniques from formal methods, blockchain, cyber security, and machine learning.
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-<div class="row">
-  <div class="column">
-    <b>Research Areas</b>
-        <li> Formal Verification of Cyber-Physical Systems</li>
-         <li> Security of Internet of Autonomous Things (IoAT) </li>
-        <li> Explainable AI for Robotic/Autonomous systems Failures </li>       
-    </div>
-  <div class="column">
-    <b>Application Domains</b>
-    <p>
-        <li> Robotics/Autonomous Systems </li>
-        <li> Edge Computing Paradigms </li>
-        <li> Safety-Critical Health Applications </li>
-     </p>
-  </div>
-</div>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -83,9 +42,9 @@ My research goal is to investigate and develop various theories, methods and too
 
 <div class="container">
     <p><strong>Research Areas:</strong> Formal Verification & Cyber-Physical Systems, 
-    Explainable AI, Fault-Tolerant and Energy-Efficient AI/ML Hardware.</p>
+    Explainable AI for Robotic/Autonomous systems Failures, Security of Internet of Autonomous Things (IoAT) and Edge/Network .</p>
     <p><strong>Application Domains:</strong> Robotics/Autonomous systems, 
-    Virtual/Augmented Reality, Edge AI/ML</p>
+    Edge Computing Paradigms, Safety-Critical Health Applications</p>
 </div>
 
 </body>
