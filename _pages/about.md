@@ -19,8 +19,6 @@ My research goal is to investigate and develop various theories, methods and too
 
 <p><em>Application Domains:</em> Robotics/Autonomous systems, Edge Computing Paradigms, Safety-Critical Health Applications</p>
 
-
-<br>
 <b>Education</b>
 <li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia,</a> MO, USA</li>
 <li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, </a>MO, USA</li>
