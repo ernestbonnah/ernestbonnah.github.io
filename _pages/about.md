@@ -56,10 +56,10 @@ My research goal is to investigate and develop various theories, methods and too
 </div>
 
 <b>Education</b>
-<li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a></li>
-<li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, MO</a></li>
-<li>MSc. Telecommunication Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a></li>
-<li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, Ghana</a></li>
+<li>Ph.D. Electrical and Computer Engineering, <a href="https://missouri.edu/">University of Missouri-Columbia,</a> MO, USA</li>
+<li>MSc. Computer Science, <a href="https://missouri.edu/">University of Missouri-Columbia, </a>MO, USA</li>
+<li>MSc. Telecommunication Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, </a>Ghana</li>
+<li>BSc. Computer Engineering, <a href="https://www.knust.edu.gh//">Kwame Nkrumah University of Science and Technology, </a>Ghana</li>
 <br>
 
 <h1>News</h1>
