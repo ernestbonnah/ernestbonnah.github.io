@@ -34,7 +34,7 @@ My research goal is to investigate and develop various theories, methods and too
 </div>
 <hr>
 <div style="display: flex;">
-  <div style="flex: 0 0 100px;"><strong>August '24</strong></div>
+  <div style="flex: 0 0 100px;"><strong>September '24</strong></div>
   <div>Our paper ‘Efficient SMT-Based Model Checking for HyperTWTL’ has been accepted for the 25th International Conference on Formal Engineering Methods (ICFEM 2024) to be held in Hiroshima, Japan. </div>
 </div>
 
