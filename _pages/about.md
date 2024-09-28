@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <hr>
-I am an Assistant Professor in the Department of Electrical and Computer Engineering at Baylor University, Waco, Texas. I direct the Secured and Dependable Intelligent Systems (SeDIS) Laboratory. Before joining Baylor University, I was a member of the Dependable Cyber-Physical Systems Laboratory at the University of Missouri-Columbia, under the supervision of Prof. Khaza Anuarul Hoque.  
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at Baylor University, Waco, Texas. I direct the Secured and Dependable Intelligent Systems (SeDIS) Laboratory. Before joining Baylor University, I was a member of the Dependable Cyber-Physical Systems (DCPS) Laboratory at the University of Missouri-Columbia, under the supervision of Prof. Khaza Anuarul Hoque. Prior to joining the DCPS Lab, I worked as a Research Assistant in the Distributed Computing Laboratory at the Jiangsu University, Zhenjiang, in P.R. China under the supervision of Prof. Ju Shiguang.
 
 Click around to learn more about my <a href="https://ernestbonnah.github.io/research/">research interests</a>, read some of my <a href="https://ernestbonnah.github.io/publications/">publications</a>, or <a href="https://ernestbonnah.github.io/opening/">vacancies</a> in my research lab.
 
@@ -32,5 +32,9 @@ My research goal is to investigate and develop various theories, methods and too
   <div style="flex: 0 0 100px;"><strong>August '24</strong></div>
   <div>The Secured and Dependable Cyber-Physical Systems (SeDIS) Lab in the Department of Electrical and Computer Engineering at Baylor University has openings for two fully funded Ph.D. positions for Spring 2025.</div>
 </div>
-
+<hr>
+<div style="display: flex;">
+  <div style="flex: 0 0 100px;"><strong>August '24</strong></div>
+  <div>Our paper ‘Efficient SMT-Based Model Checking for HyperTWTL’ has been accepted for the 25th International Conference on Formal Engineering Methods (ICFEM 2024) to be held in Hiroshima, Japan. </div>
+</div>
 
