@@ -27,7 +27,7 @@ author:
   avatar           : "prof_pic.png"
   name             : "Ernest Bonnah"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor <br> <a style='color: black;' href='https://www.ecs.baylor.edu/research-departments/electrical-and-computer-engineering' target='_blank'>Department of Electrical & Computer Engineering</a> <br> <a style='color: black;' href='https://www.baylor.edu/' target='_blank'>Baylor University"
+  bio              : "Assistant Professor <br> <a style='color: black;' href='https://www.ecs.baylor.edu/ece' target='_blank'>Department of Electrical & Computer Engineering</a> <br> <a style='color: black;' href='https://www.baylor.edu/' target='_blank'>Baylor University"
   location         : "Waco, TX"
   employer         : #"Red Brick University"
   uri              : # URL
