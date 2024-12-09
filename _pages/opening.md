@@ -6,22 +6,20 @@ author_profile: true
 ---
 <hr>
 
-<b>Two Fully funded Ph.D. positions in Baylor University</b>
+<b>A funded Ph.D. position in Baylor University</b>
 
 The Secured and Dependable Intelligent Systems (SeDIS) Lab at the Department of Electrical and Computer Engineering of Baylor University, Waco, Texas, USA, invites highly motivated students
-with backgrounds in formal verification, cybersecurity, and/or machine learning to apply for two funded Ph.D. positions available for Spring 2025 under the supervision of Dr. Ernest Bonnah. The
-research projects will explore novel formal verification, security, and machine learning techniques to guarantee and enhance safety, quality of service, and security in intelligent autonomous systems,
-the internet of autonomous things, and edge computing paradigms.
+with backgrounds in Internet of Things (IoT)/ Internet of Autonomous Things (IoAT)/ Edge Computing, Cybersecurity, Blockchain Technology and/or Machine Learning to apply for a fully funded Ph.D. position available for Fall 2025 under the supervision of Dr. Ernest Bonnah. The research projects will explore novel security, bloackchain, and machine learning techniques to guarantee and enhance safety, quality of service, and security in intelligent autonomous systems, the internet of autonomous things, and edge computing paradigms.
 
 <b>Responsibilities</b>
 
 The major responsibilities of successful applicants include conducting doctoral research and coursework. Ph.D. students will be required to identify novel research directions and design the
-appropriate computational experiments to answer key research questions. In this regard, students will perform world-class research in edge/network privacy and security, or formal verification of
+appropriate computational experiments to answer key research questions. In this regard, students will perform world-class research in edge/network privacy and security of
 autonomous systems. Lastly, Ph.D. students will be required to effectively communicate the results of their research findings, both verbally and in writing.
 
 <b>Requirements</b>
 
-1. Good academic results in B.Sc./M.Sc. with a Computer Science/Engineering major. Knowledge of formal verification, automata theory, and cybersecurity is required.
+1. Good academic results in B.Sc./M.Sc. with a Computer Science/Engineering major. Knowledge of IoT/IoAT and cybersecurity is required.
 2. Strong programming skills (C/C++, Python) are required. A good understanding of graph theory, dynamic programming, machine learning, and optimization techniques is an added
 advantage.
 3. GRE with a strong quantitative score is a plus.
